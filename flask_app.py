@@ -1,16 +1,6 @@
-# Rencana Pembelajaran FGA Big Using Python Kelas A Fakultas Ilmu Komputer (Filkom),
-# Universitas Brawijaya (UB) 2022 Instruktur:
-
-# 1. Imam Cholissodin, S.Si., M.Kom. | email: imamcs@ub.ac.id | Filkom UB
-# 2. Nur Silviyah Rahmi, S.Si., M.Stat. | email: silviyahrahmi@ub.ac.id | Mipa UB
-
-# Link Free Buku Ajar tentang "Big Data Dengan Java/Scala/Python"
-# dari saya (Pak Imam Cholissodin) : http://bit.ly/2FMLnfw
-#
-# Tgl 12 Juli 2022 - 3 September 2022
-# Kolaborasi Instruktur Filkom x Mipa UB 2022
-# Di Bawah Naungan Kominfo Pusat x Cisco Academy x lainnya dlm FGA
-# Asisten Kelas A: Yusron Yogatama
+# 
+# By: Imam Cholissodin, S.Si., M.Kom. | email: imamcs@ub.ac.id | Filkom UB
+# Big Thanks to All Teams :D
 
 from flask import Flask,render_template, Response, redirect,url_for,session,request,jsonify
 from flask import json, make_response, render_template_string
