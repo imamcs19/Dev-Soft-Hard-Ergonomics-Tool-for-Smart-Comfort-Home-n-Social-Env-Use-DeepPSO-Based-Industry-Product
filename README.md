@@ -12,9 +12,9 @@ Authors:
 5. Adharul Muttaqin (adharulk@ub.ac.id), Electrical Engineering Department, Universitas Brawijaya (UB)
 6. Dewi Hardiningtyas (dewi.tyas@ub.ac.id),Industrial Engineering Department, Universitas Brawijaya (UB)
 
-![image](https://raw.githubusercontent.com/imamcs19/Dev-Soft-Hard-Ergonomics-Tool-for-Smart-Comfort-Home-n-Social-Env-Use-DeepPSO-Based-Industry-Product/main/PPT%20-%20ICOEMIS%202022%20-%20Social%20Ergonomic%20Apps%20-%20Cover%20%20v1.09.png)
+![image](https://raw.githubusercontent.com/imamcs19/Dev-Soft-Hard-Ergonomics-Tool-for-Smart-Comfort-Home-n-Social-Env-Use-DeepPSO-Based-Industry-Product/main/PPT%20-%20ICOEMIS%202022%20-%20Social%20Ergonomic%20Apps%20-%20Cover%20%20v2.01.png)
 
-![image](https://raw.githubusercontent.com/imamcs19/Dev-Soft-Hard-Ergonomics-Tool-for-Smart-Comfort-Home-n-Social-Env-Use-DeepPSO-Based-Industry-Product/main/PPT%20-%20ICOEMIS%202022%20-%20Social%20Ergonomic%20Apps%20-%20Intro%20v1.09.png)
+![image](https://raw.githubusercontent.com/imamcs19/Dev-Soft-Hard-Ergonomics-Tool-for-Smart-Comfort-Home-n-Social-Env-Use-DeepPSO-Based-Industry-Product/main/PPT%20-%20ICOEMIS%202022%20-%20Social%20Ergonomic%20Apps%20-%20Intro%20v2.01.png)
 
 
 The 2nd International Conference on Engineering and Management in Industrial System (ICOEMIS 2022) – Golden Tulip Holland Resort, Batu, Malang
